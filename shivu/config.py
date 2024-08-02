@@ -7,13 +7,13 @@ class Config(object):
     GROUP_ID = -1002025625952
     TOKEN = "6721894255:AAFwajY_j4ZioF9008BVvjy-D3g34GFI4tc"
     mongo_url = "mongodb+srv://mrdevil12:mrdevil12@devil.8sdjynz.mongodb.net/?retryWrites=true&w=majority&appName=Devil"
-    PHOTO_URL = ["https://telegra.ph/file/b925c3985f0f325e62e17.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
-    SUPPORT_CHAT = "Collect_em_support"
-    UPDATE_CHAT = "Collect_em_support"
-    BOT_USERNAME = "Collect_Em_AllBot"
-    CHARA_CHANNEL_ID = "-1002133191051"
-    api_id = 26626068
-    api_hash = "bf423698bcbe33cfd58b11c78c42caa2"
+    PHOTO_URL = ["https://telegra.ph/file/b0c4f9723cdb26495649c.jpg", "https://telegra.ph/file/f668ee0a0f8987d7f340a.jpg"]
+    SUPPORT_CHAT = "devilbotsupport"
+    UPDATE_CHAT = "devilbots971"
+    BOT_USERNAME = "animexwaifusBot"
+    CHARA_CHANNEL_ID = "-1002174702412"
+    api_id = 21436816
+    api_hash = "c269918dddddbc041d536207cab72155"
 
     
 class Production(Config):
