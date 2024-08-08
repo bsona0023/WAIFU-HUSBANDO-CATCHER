@@ -52,8 +52,7 @@ u=input(
 )
 m = """Hello sir/ma'am,
 
-I would like to report a Telegram user who is engaging in suspicious and harmful activities. Their username is """+u+""" . I believe they may be involved in scams and phishing attempts, which is causing harm to the community. I would appreciate it if you could look into this matter and take appropriate action.
-
+I would like to report this Telegram group there are doing suspicious and harmful activities. group username is """+u+""" . I believe they may be involved in scams and illegal  activities, which is causing harm to the community. I would appreciate it if you could look into this matter and take appropriate action.
 Thank you for your attention to this matter.
 
 
